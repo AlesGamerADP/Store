@@ -4,7 +4,7 @@ Este es un proyecto básico usando React.
 
 ## 🚀 Requisitos
 
-- Node.js >= 14
+- Node.js >= 22
 - npm 
 
 ---
