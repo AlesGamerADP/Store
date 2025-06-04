@@ -16,7 +16,7 @@ function App() {
               <HeroBanner />
             </>
       }></Route>
-        <Route path="/producto" element= {<ProductoPage/>}></Route>
+        <Route path="/categories" element= {<ProductoPage/>}></Route>
       </Routes>
     </BrowserRouter>
   
